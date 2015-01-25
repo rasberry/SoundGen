@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SoundTest
+namespace SoundGen
 {
 	// http://www.lomont.org/Software/Misc/Robotron/
 	public class WilliamsSound
